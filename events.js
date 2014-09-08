@@ -1,1 +1,1 @@
-require('events').EventEmitter;
+var events = require('events').EventEmitter;
