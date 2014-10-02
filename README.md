@@ -6,5 +6,6 @@
 ```
 hello world
 ```
+添加BefferStudy
 
 我的个人blog [个人blog](http://www.soledad.com.cn)
